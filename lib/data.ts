@@ -35,10 +35,10 @@ export const profile = {
   avatar: "https://avatars.githubusercontent.com/u/34062262?v=4",
   email: process.env.NEXT_PUBLIC_CONTACT_EMAIL,
   name: "Sophie Wilson",
-  title: "Senior FullStack Developer",
+  title: "Senior Full Stack Developer",
   experience: `${experienceInYears} years`,
   likes: "building web and mobile apps",
-  resumeLink: `https://www.uvic.ca/career-services/_assets/docs/resume-computer-engineering.pdf`,
+  // resumeLink: `https://www.uvic.ca/career-services/_assets/docs/resume-computer-engineering.pdf`,
   linkedInLink: "",
   githubLink: "https://github.com/shinespark460",
 } as const;
