@@ -29,18 +29,18 @@ import {
 
 import React from "react";
 
-const experienceInYears = new Date().getFullYear() - 2017;
+const experienceInYears = new Date().getFullYear() - 2020;
 
 export const profile = {
   avatar: "https://avatars.githubusercontent.com/u/34062262?v=4",
   email: process.env.NEXT_PUBLIC_CONTACT_EMAIL,
-  name: "Ketan Patel",
-  title: "JavaScript FullStack Developer",
+  name: "Sophie Wilson",
+  title: "Senior FullStack Developer",
   experience: `${experienceInYears} years`,
   likes: "building web and mobile apps",
   resumeLink: `https://www.uvic.ca/career-services/_assets/docs/resume-computer-engineering.pdf`,
   linkedInLink: "",
-  githubLink: "https://github.com/KtanPatel",
+  githubLink: "https://github.com/shinespark460",
 } as const;
 
 export const links = [
