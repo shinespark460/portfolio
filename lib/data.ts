@@ -79,36 +79,28 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Narola Infotech",
-    location: "Surat, IN",
-    description:
-      "I've started a journey as a full-stack JavaScript developer after completing my Master of Computer Applications.",
+    title: "Incentro",
+    location: "Amsterdam, Netherlands",
+    description: 
+      "Senior Full Stack Engineer building scalable SaaS platforms with React and Node.js, optimizing backend performance (70% MySQL improvement), and deploying real-time, cloud-based solutions on AWS with Docker.",
     icon: React.createElement(CgWorkAlt),
-    date: "2018 - 2020",
+    date: "Sep 2022 - Present",
   },
   {
-    title: "Crest Infosystems",
-    location: "Surat, IN",
+    title: "Info Support",
+    location: "Utrecht, Netherlands",
     description:
-      "As a backend developer I've been working on various projects. Like starKid, Rightback, and many more.",
+      "Frontend engineer experienced in building React and Next.js applications with Redux, integrating APIs, optimizing UI performance, and collaborating across teams on Angular, Vue, and WordPress projects.As a backend developer I've been working on various projects. Like starKid, Rightback, and many more.",
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2021",
+    date: "Nov 2020 - Aug 2022",
   },
   {
-    title: "Opash Software",
-    location: "Surat, IN",
+    title: "Ordina",
+    location: "Rotterdam, Netherlands",
     description:
-      "As a co-founder and CTO of Opash Software, I've been working on various projects and contribute to the success of the company.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2021 - 2024",
-  },
-  {
-    title: "Full-Stack Developer",
-    location: "Worldwide",
-    description:
-      "I'm now a full-stack developer working as a freelancer.",
+      "Developed secure web applications in a cybersecurity-focused environment, implementing authentication workflows, secure session handling, and resolving performance and security issues.",
     icon: React.createElement(FaReact),
-    date: "2024 - present",
+    date: "2019 - Oct 2020",
   },
 ] as const;
 
